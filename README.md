@@ -35,6 +35,6 @@ All scripts in this repository are open-source and available under the MIT Licen
 
 ## Contact
 
-For any questions, suggestions, or issues, please contact [Your Name] at [Your Email].
+For any questions, suggestions, or issues, please leave a message :),
 
 Thank you for visiting the Scripts collection! Happy scripting!
