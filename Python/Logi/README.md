@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/144/000000/python.png" width="100" alt="Python Logo"/>
-  <img src="https://img.icons8.com/color/144/000000/windows10.png" width="100" alt="Windows Logo"/>
+  <img src="https://img.icons8.com/color/144/000000/windows-11.png" width="100" alt="Windows Logo"/>
 </p>
 
 This repository contains the script `FocusChatBox_LogiAIWindow.py` and its compiled executable version `FocusChatBox_LogiAIWindow.exe`. The script automates the task of focusing on a specific text box inside a Flutter-based Logi AI Prompt Builder application window. It leverages Microsoft Active Accessibility (MSAA) to interact with elements that are otherwise inaccessible using standard UI Automation tools.
