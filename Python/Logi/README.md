@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/language-Python-blue.svg) ![Windows](https://img.shields.io/badge/platform-Windows-blue.svg)
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" style="width: 48px;"/> <img src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows Logo" style="width: 48px;"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" style="width: 48px;"/> <img src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows Logo" style="width: 48px;"/>
 
 ## Goal
 
