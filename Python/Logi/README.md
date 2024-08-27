@@ -171,4 +171,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Contact
 
-For more information or inquiries, please contact [Your Name] at [Your Email].
+For more information or inquiries, please leave a message.
